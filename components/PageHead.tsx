@@ -82,6 +82,7 @@ export const PageHead: React.FC<
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
       <title>{title}</title>
+      <script async src="https://umami-tan-eta.vercel.app/script.js" data-website-id="190116e7-70ac-421d-b990-c869497481b7"></script>
     </Head>
   )
 }
